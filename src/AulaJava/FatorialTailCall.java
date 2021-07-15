@@ -2,7 +2,7 @@ package AulaJava;
 
 public class FatorialTailCall {
     public static void main(String[] args) {
-        System.out.println(fatorialA(6));
+        System.out.println(fatorialA(100000));
     }
 
     public static double fatorialA(double valor) {
